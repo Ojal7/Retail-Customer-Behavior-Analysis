@@ -70,7 +70,7 @@ Management is particularly interested in understanding how factors such as demog
 
 ## 📊 Dashboard Preview
 
-![Retail Customer Behavior Dashboard](dashboard_image/Dashboard.jpg)
+![Retail Customer Behavior Dashboard](retail-customer-behavior-analysis/dashboard_image/Dashboard.jpg)
 
 ---
 
