@@ -128,7 +128,6 @@ The Power BI dashboard provides interactive insights into:
 
 The repository also contains a detailed PDF report covering:
 
-- Data Cleaning Process
 - SQL Queries and Results
 - Dashboard Walkthrough
 - Business Insights
