@@ -70,7 +70,7 @@ Management is particularly interested in understanding how factors such as demog
 
 ## 📊 Dashboard Preview
 
-
+![Retail Customer Behavior Dashboard](dashboard_image/Dashboard.jpg)
 
 ---
 
@@ -133,7 +133,7 @@ The repository also contains a detailed PDF report covering:
 - Business Insights
 - Business Recommendations
 
-Please refer to **Project_Report.pdf** for the complete analysis.
+Please refer to **Retail Customer Behaviour Analysis Report.pdf** for the complete analysis.
 
 ---
 
