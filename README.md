@@ -1,6 +1,6 @@
 # Retail Customer Behavior Analysis
 
-### End-to-End Data Analytics Project using Python, PostgreSQL, SQL & Power BI
+### End-to-End Data Analytics Project using Python, PostgreSQL & Power BI
 
 ---
 
